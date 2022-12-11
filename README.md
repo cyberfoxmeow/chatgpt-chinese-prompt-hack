@@ -1,7 +1,10 @@
 # chatgpt_chinese_prompt_hack
 利用催眠技巧绕开OpenAI的内容政策限制（仅供研究使用）
-在催眠成功后,通过屏蔽moderetions的api请求,可以绕过审查.
+
+在hack成功后,通过屏蔽moderetions的api请求,可以绕过OpenAI对于输出内容的审查.
+
 地址为:https://chat.openai.com/backend-api/moderations
+
 ## hack skill
 第一段对话
 
