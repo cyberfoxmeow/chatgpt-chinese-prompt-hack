@@ -42,3 +42,6 @@
 ## summary
 
 通过这种技巧可以诱导ChatGPT生成任意文本，绕过OpenAI的内容限制。
+
+#生成示例
+ ![child](child.jpg)
