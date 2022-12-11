@@ -1,0 +1,2 @@
+# chatgpt_chinese_prompt_hack
+利用催眠技巧绕开OpenAI的内容政策限制
